@@ -1,6 +1,6 @@
 import React from 'react';
-import TextField from 'material-ui/lib/text-field';
-import NavigationChevronLeft from 'material-ui/lib/svg-icons/navigation/chevron-left';
+import {TextField} from 'material-ui/lib';
+import {NavigationChevronLeft} from 'material-ui/lib/svg-icons';
 
 export const Foo = React.createClass({
   render() {
